@@ -1,0 +1,12 @@
+
+.logo{
+    position: fixed;
+    left: 20px; 
+    width: 80px;
+
+}
+.avatar{
+    position: fixed;
+    right:20px;
+    width:30px;
+}
