@@ -15,6 +15,10 @@
 }
 
 .poster{
-    max-height: 250px;
+    max-height: 200px;
+    margin-right: 10px;
+}
+.smallPoster{
+    max-height: 100px;
     margin-right: 10px;
 }
